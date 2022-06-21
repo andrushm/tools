@@ -1,6 +1,7 @@
 {
   "name": "dev",
   "version": "0.0.0",
+  "homepage": "/tools/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
